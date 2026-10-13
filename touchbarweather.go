@@ -12,7 +12,7 @@ import (
 )
 
 const (
-    apiKey    = "YOUR_API_KEY" // Replace with your OpenWeather API key
+    apiKey    = "5a87082a058288345281e98e8d535f7a" // Replace with your OpenWeather API key
     baseURL   = "http://api.openweathermap.org/data/2.5/weather"
     latitude  = 37.7749        // Default latitude
     longitude = -122.4194      // Default longitude
